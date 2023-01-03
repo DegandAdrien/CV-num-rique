@@ -1,0 +1,48 @@
+.Classification {
+    grid-column: 1;
+    grid-row: 2;
+    text-align: center;
+    padding-top: 15%;
+}
+.ClassificationSC {
+    grid-column: 2;
+    grid-row: 2;
+    text-align: center;
+}
+.Classification h2 {
+    margin-bottom: 2%;
+}
+
+.Affectation {
+    grid-column: 2;
+    grid-row: 3;
+    text-align: center;
+    padding-top: 15%;
+}
+
+.AffectationSC {
+    grid-column: 1;
+    grid-row: 3;
+    text-align: center;
+}
+
+.Affectation h2 {
+    margin-bottom: 2%;
+}
+
+.Billy {
+    grid-column: 1;
+    grid-row: 4;
+    text-align: center;
+    padding-top: 15%;
+}
+
+.BillySC {
+    grid-column: 2;
+    grid-row: 4;
+    text-align: center;
+    padding-bottom: 8%;
+}
+.Billy h2 {
+    margin-bottom: 2%;
+}

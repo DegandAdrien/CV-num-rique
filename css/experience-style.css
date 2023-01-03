@@ -1,0 +1,14 @@
+.Experiences {
+    grid-column: 1;
+    grid-row: 2;
+    text-align: center;
+    padding-top: 15%;
+ }
+ .Experiences h2 {
+     margin-bottom: 2%;
+ }
+
+ .ImageExp {
+    grid-column: 2;
+    grid-row: 2;
+ }

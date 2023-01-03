@@ -1,0 +1,30 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+body {
+    background-color: #f7f7f7;
+}
+
+
+.ImgTexte {
+  position: absolute;
+  font-size:xx-large;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, 0%);
+  background-color:rgb(255, 255 ,255, 0.5);
+  padding:2%;
+  border-radius: 10px;
+}
+
+.Texte {
+    margin-top: 2%;
+    display: grid;
+    grid-template-columns: fit-content(35%) fit-content(35%);
+    grid-gap: 5% 5%;
+    grid-auto-rows: max-content;
+    justify-content: center;
+    
+}

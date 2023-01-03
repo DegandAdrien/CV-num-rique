@@ -1,0 +1,32 @@
+.TexteContact {
+    grid-column: 1/ span 2;
+    grid-row: 1;
+    text-align: center;
+ }
+ .TexteContact h2 {
+     margin-bottom: 2%;
+ }
+ .TexteContact p {
+    margin-bottom: 5%;
+ }
+
+.Mail {
+    grid-column: 1;
+    grid-row: 2;
+    text-align: center;
+}
+.Mail p {
+    margin-top: 2%;
+    margin-left: 2%;
+}
+
+.Tel {
+    grid-column: 2;
+    grid-row: 2;
+    text-align: center;
+}
+.Tel p {
+    margin-top: 2%;
+    margin-left: 2%;
+}
+

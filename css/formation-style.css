@@ -1,0 +1,31 @@
+.BUT {
+    grid-column: 1;
+    grid-row: 2;
+    text-align: center;
+    padding-top: 15%;
+ }
+ .BUT h2 {
+     margin-bottom: 2%;
+ }
+
+ .LogoIUT {
+    grid-column: 2;
+    grid-row: 2;
+    text-align: center;
+ }
+
+ .Lycee {
+    grid-column: 2;
+    grid-row: 3;
+    text-align: center;
+    padding-top: 15%;
+ }
+ .Lycee h2 {
+     margin-bottom: 2%;
+ }
+
+ .LogoJP {
+    grid-column: 1;
+    grid-row: 3;
+    text-align: center;
+ }

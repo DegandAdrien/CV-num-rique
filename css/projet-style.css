@@ -46,3 +46,37 @@
 .Billy h2 {
     margin-bottom: 2%;
 }
+
+.Circle {
+    grid-column: 2;
+    grid-row: 5;
+    text-align: center;
+    padding-top: 15%;
+}
+
+.CircleSC {
+    grid-column: 1;
+    grid-row: 5;
+    text-align: center;
+    padding-bottom: 8%;
+}
+.Circle h2 {
+    margin-bottom: 2%;
+}
+
+.Ghost {
+    grid-column: 1;
+    grid-row: 6;
+    text-align: center;
+    padding-top: 15%;
+}
+
+.GhostSC {
+    grid-column: 2;
+    grid-row: 6;
+    text-align: center;
+    padding-bottom: 8%;
+}
+.Ghost h2 {
+    margin-bottom: 2%;
+}

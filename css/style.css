@@ -20,11 +20,13 @@ body {
 }
 
 .Texte {
+    height: 100%;
+    width: 100%;
     margin-top: 2%;
     display: grid;
     grid-template-columns: fit-content(35%) fit-content(35%);
     grid-gap: 5% 5%;
-    grid-auto-rows: max-content;
+    grid-auto-rows:1fr ;
     justify-content: center;
     
 }

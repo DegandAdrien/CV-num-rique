@@ -1,3 +1,19 @@
+.Catho {
+    grid-column: 2;
+    grid-row: 1;
+    text-align: center;
+    padding-top: 15%;
+}
+.Catho h2 {
+    margin-bottom: 2%;
+}
+
+.LogoCatho {
+    grid-column: 1;
+    grid-row: 1;
+    text-align: center;
+}
+
 .BUT {
     grid-column: 1;
     grid-row: 2;

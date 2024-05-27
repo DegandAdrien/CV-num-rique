@@ -1,12 +1,12 @@
 .Classification {
     grid-column: 1;
-    grid-row: 2;
+    grid-row: 1;
     text-align: center;
     padding-top: 15%;
 }
 .ClassificationSC {
     grid-column: 2;
-    grid-row: 2;
+    grid-row: 1;
     text-align: center;
 }
 .Classification h2 {
@@ -15,14 +15,14 @@
 
 .Affectation {
     grid-column: 2;
-    grid-row: 3;
+    grid-row: 2;
     text-align: center;
     padding-top: 15%;
 }
 
 .AffectationSC {
     grid-column: 1;
-    grid-row: 3;
+    grid-row: 2;
     text-align: center;
 }
 
@@ -32,14 +32,14 @@
 
 .Billy {
     grid-column: 1;
-    grid-row: 4;
+    grid-row: 3;
     text-align: center;
     padding-top: 15%;
 }
 
 .BillySC {
     grid-column: 2;
-    grid-row: 4;
+    grid-row: 3;
     text-align: center;
     padding-bottom: 8%;
 }
@@ -49,14 +49,14 @@
 
 .Circle {
     grid-column: 2;
-    grid-row: 5;
+    grid-row: 4;
     text-align: center;
     padding-top: 15%;
 }
 
 .CircleSC {
     grid-column: 1;
-    grid-row: 5;
+    grid-row: 4;
     text-align: center;
     padding-bottom: 8%;
 }
@@ -66,14 +66,14 @@
 
 .Ghost {
     grid-column: 1;
-    grid-row: 6;
+    grid-row: 5;
     text-align: center;
     padding-top: 15%;
 }
 
 .GhostSC {
     grid-column: 2;
-    grid-row: 6;
+    grid-row: 5;
     text-align: center;
     padding-bottom: 8%;
 }
